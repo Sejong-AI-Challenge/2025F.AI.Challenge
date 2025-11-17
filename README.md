@@ -1,0 +1,1 @@
+# 2025F.AI.Challenge
