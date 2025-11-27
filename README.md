@@ -22,7 +22,7 @@
 | 1 | 오픈 카톡방  |  개별초대  |
 | 2 | 캐글 사용법  |  [리더보드](https://www.kaggle.com/competitions/sejong-ai-challenge-sample-submission?rvi=1) | [해설영상](https://www.youtube.com/watch?v=LFCOH-s8IF8&list=PLa8kMie0Pc0sSbfQuWKpJ2MVPubHsttXY&index=2) |
 | 3 | 연습문제     |  [파이썬](https://www.kaggle.com/t/597bfced63dd4ba59ac266e679a3ba83) |
-| 4 | 본선문제     |  [유형1](https://www.kaggle.com/competitions/2025F-sejong-ai-challenge-q1) |  [유형2](https://www.kaggle.com/competitions/2025F-sejong-ai-challenge-q2) |  [유형3](https://www.kaggle.com/competitions/2025F-sejong-ai-challenge-q3) |
+| 4 | 본선문제     |  [유형1](https://www.kaggle.com/t/b600d48ba0c64dc794b8110f2c12cee6) |  [유형2](https://www.kaggle.com/t/9848b7880e4549d4a9857f842084a9e2) |  [유형3](https://www.kaggle.com/t/23c00904160a40cd891e9cb279a8e917) |
 
 
 ## 기타
